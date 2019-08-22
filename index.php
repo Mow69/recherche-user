@@ -1,5 +1,5 @@
 <?php
-$title = "Accueil";
+$title = "Home";
 require_once 'layout/header.php';
 ?>
 
